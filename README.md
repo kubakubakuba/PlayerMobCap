@@ -21,7 +21,7 @@ The plugin loads the mob cap and search distance values from a configuration fil
 
 ## Installation
 
-1. Download the plugin JAR file from the releases tab and place it in your server's plugins directory.
+1. Download the plugin JAR file from the [releases](https://github.com/kubakubakuba/PlayerMobCap/releases) tab and place it in your server's plugins directory.
 2. Restart your server. The plugin should load automatically and create a configuration file in the plugin's directory.
 3. Customize the mob cap and search distance by editing the configuration file or using the provided commands.
 
