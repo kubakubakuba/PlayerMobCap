@@ -1,0 +1,11 @@
+name: PlayerMobCap
+main: eu.swpelc.playermobcap.Main
+version: 1.0
+api-version: 1.13
+commands:
+  mcpset:
+    description: Sets the mob cap for each player.
+    usage: /<command> <number>
+  mcpdist:
+    description: Sets the distance from the player for the mob cap.
+    usage: /<command> <number>
